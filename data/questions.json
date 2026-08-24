@@ -1,0 +1,30 @@
+[
+  {
+    "id": "q1",
+    "q": "What did Paul go to buy?",
+    "answer": "a book",
+    "docs": ["d8"],
+    "hops": 1
+  },
+  {
+    "id": "q2",
+    "q": "Where did Nina work?",
+    "answer": "the station",
+    "docs": ["d22"],
+    "hops": 1
+  },
+  {
+    "id": "q3",
+    "q": "Who worked at the place Nina visited?",
+    "answer": "Helen",
+    "docs": ["d24", "d34"],
+    "hops": 2
+  },
+  {
+    "id": "q4",
+    "q": "Who else worked at the place Michael worked at?",
+    "answer": "Rachel",
+    "docs": ["d14", "d28"],
+    "hops": 2
+  }
+]
