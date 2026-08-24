@@ -1,0 +1,1106 @@
+{
+  "entities": [
+    {
+      "id": "e1",
+      "type": "person",
+      "name": "Michael"
+    },
+    {
+      "id": "e2",
+      "type": "person",
+      "name": "Nina"
+    },
+    {
+      "id": "e3",
+      "type": "person",
+      "name": "Bob"
+    },
+    {
+      "id": "e4",
+      "type": "person",
+      "name": "Ivan"
+    },
+    {
+      "id": "e5",
+      "type": "person",
+      "name": "Rachel"
+    },
+    {
+      "id": "e6",
+      "type": "person",
+      "name": "Paul"
+    },
+    {
+      "id": "e7",
+      "type": "person",
+      "name": "Grace"
+    },
+    {
+      "id": "e8",
+      "type": "person",
+      "name": "Wendy"
+    },
+    {
+      "id": "e9",
+      "type": "person",
+      "name": "Emma"
+    },
+    {
+      "id": "e10",
+      "type": "person",
+      "name": "Helen"
+    },
+    {
+      "id": "e_obj_1",
+      "type": "object",
+      "name": "the dog"
+    },
+    {
+      "id": "e_obj_2",
+      "type": "place",
+      "name": "the cafe"
+    },
+    {
+      "id": "e_obj_3",
+      "type": "object",
+      "name": "a bicycle"
+    },
+    {
+      "id": "e_obj_4",
+      "type": "object",
+      "name": "lunch"
+    },
+    {
+      "id": "e_obj_5",
+      "type": "place",
+      "name": "the cafe"
+    },
+    {
+      "id": "e_obj_6",
+      "type": "object",
+      "name": "the car"
+    },
+    {
+      "id": "e_obj_7",
+      "type": "object",
+      "name": "groceries"
+    },
+    {
+      "id": "e_obj_8",
+      "type": "object",
+      "name": "a book"
+    },
+    {
+      "id": "e_obj_9",
+      "type": "object",
+      "name": "the car"
+    },
+    {
+      "id": "e_obj_10",
+      "type": "object",
+      "name": "a package"
+    },
+    {
+      "id": "e_obj_11",
+      "type": "place",
+      "name": "the cafe"
+    },
+    {
+      "id": "e_obj_12",
+      "type": "object",
+      "name": "milk"
+    },
+    {
+      "id": "e_obj_13",
+      "type": "object",
+      "name": "lunch"
+    },
+    {
+      "id": "e_obj_14",
+      "type": "place",
+      "name": "the market"
+    },
+    {
+      "id": "e_obj_15",
+      "type": "object",
+      "name": "lunch"
+    },
+    {
+      "id": "e_obj_16",
+      "type": "object",
+      "name": "the dog"
+    },
+    {
+      "id": "e_obj_17",
+      "type": "place",
+      "name": "the office"
+    },
+    {
+      "id": "e_obj_18",
+      "type": "object",
+      "name": "a package"
+    },
+    {
+      "id": "e_obj_19",
+      "type": "object",
+      "name": "the newspaper"
+    },
+    {
+      "id": "e_obj_20",
+      "type": "place",
+      "name": "the park"
+    },
+    {
+      "id": "e_obj_21",
+      "type": "object",
+      "name": "the cat"
+    },
+    {
+      "id": "e_obj_22",
+      "type": "place",
+      "name": "the station"
+    },
+    {
+      "id": "e_obj_23",
+      "type": "place",
+      "name": "the cafe"
+    },
+    {
+      "id": "e_obj_24",
+      "type": "place",
+      "name": "the pharmacy"
+    },
+    {
+      "id": "e_obj_25",
+      "type": "object",
+      "name": "the dog"
+    },
+    {
+      "id": "e_obj_26",
+      "type": "object",
+      "name": "the dog"
+    },
+    {
+      "id": "e_obj_27",
+      "type": "object",
+      "name": "a bicycle"
+    },
+    {
+      "id": "e_obj_28",
+      "type": "place",
+      "name": "the market"
+    },
+    {
+      "id": "e_obj_29",
+      "type": "object",
+      "name": "the car"
+    },
+    {
+      "id": "e_obj_30",
+      "type": "object",
+      "name": "milk"
+    },
+    {
+      "id": "e_obj_31",
+      "type": "object",
+      "name": "the car"
+    },
+    {
+      "id": "e_obj_32",
+      "type": "place",
+      "name": "the cafe"
+    },
+    {
+      "id": "e_obj_33",
+      "type": "place",
+      "name": "the office"
+    },
+    {
+      "id": "e_obj_34",
+      "type": "place",
+      "name": "the pharmacy"
+    },
+    {
+      "id": "e_obj_35",
+      "type": "place",
+      "name": "the market"
+    },
+    {
+      "id": "e_obj_36",
+      "type": "place",
+      "name": "the park"
+    },
+    {
+      "id": "e_obj_37",
+      "type": "object",
+      "name": "bread"
+    },
+    {
+      "id": "e_obj_38",
+      "type": "place",
+      "name": "the station"
+    },
+    {
+      "id": "e_obj_39",
+      "type": "object",
+      "name": "milk"
+    },
+    {
+      "id": "e_obj_40",
+      "type": "place",
+      "name": "the park"
+    },
+    {
+      "id": "e_obj_41",
+      "type": "place",
+      "name": "the station"
+    },
+    {
+      "id": "e_obj_42",
+      "type": "object",
+      "name": "a book"
+    },
+    {
+      "id": "e_obj_43",
+      "type": "object",
+      "name": "coffee"
+    },
+    {
+      "id": "e_obj_44",
+      "type": "place",
+      "name": "the store"
+    },
+    {
+      "id": "e_obj_45",
+      "type": "place",
+      "name": "the park"
+    },
+    {
+      "id": "e_obj_46",
+      "type": "object",
+      "name": "the car"
+    },
+    {
+      "id": "e_obj_47",
+      "type": "object",
+      "name": "a bicycle"
+    },
+    {
+      "id": "e_obj_48",
+      "type": "object",
+      "name": "bread"
+    },
+    {
+      "id": "e_obj_49",
+      "type": "object",
+      "name": "milk"
+    },
+    {
+      "id": "e_obj_50",
+      "type": "place",
+      "name": "the office"
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "READ",
+      "object": "e_obj_1",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d1"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c2",
+      "claim_type": "event",
+      "subject": "e3",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_2",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d2"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c3",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "WALKED",
+      "object": "e_obj_3",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d3"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c4",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "READ",
+      "object": "e_obj_4",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d4"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c5",
+      "claim_type": "event",
+      "subject": "e3",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_5",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d5"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c6",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "BOUGHT",
+      "object": "e_obj_6",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d6"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c7",
+      "claim_type": "event",
+      "subject": "e8",
+      "predicate": "READ",
+      "object": "e_obj_7",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d7"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c8",
+      "claim_type": "event",
+      "subject": "e6",
+      "predicate": "BOUGHT",
+      "object": "e_obj_8",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d8"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c9",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "READ",
+      "object": "e_obj_9",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d9"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c10",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "WALKED",
+      "object": "e_obj_10",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d10"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c11",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "VISITED",
+      "object": "e_obj_11",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d11"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c12",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "BOUGHT",
+      "object": "e_obj_12",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d12"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c13",
+      "claim_type": "event",
+      "subject": "e7",
+      "predicate": "BOUGHT",
+      "object": "e_obj_13",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d13"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c14",
+      "claim_type": "event",
+      "subject": "e1",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_14",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d14"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c15",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "READ",
+      "object": "e_obj_15",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d15"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c16",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "READ",
+      "object": "e_obj_16",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d16"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c17",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_17",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d17"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c18",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "WALKED",
+      "object": "e_obj_18",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d18"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c19",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "BOUGHT",
+      "object": "e_obj_19",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d19"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c20",
+      "claim_type": "event",
+      "subject": "e8",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_20",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d20"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c21",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "READ",
+      "object": "e_obj_21",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d21"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c22",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_22",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d22"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c23",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_23",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d23"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c24",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "VISITED",
+      "object": "e_obj_24",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d24"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c25",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "READ",
+      "object": "e_obj_25",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d25"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c26",
+      "claim_type": "event",
+      "subject": "e3",
+      "predicate": "READ",
+      "object": "e_obj_26",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d26"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c27",
+      "claim_type": "event",
+      "subject": "e1",
+      "predicate": "WALKED",
+      "object": "e_obj_27",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d27"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c28",
+      "claim_type": "event",
+      "subject": "e5",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_28",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d28"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c29",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "BOUGHT",
+      "object": "e_obj_29",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d29"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c30",
+      "claim_type": "event",
+      "subject": "e3",
+      "predicate": "WALKED",
+      "object": "e_obj_30",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d30"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c31",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "BOUGHT",
+      "object": "e_obj_31",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d31"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c32",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "VISITED",
+      "object": "e_obj_32",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d32"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c33",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_33",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d33"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c34",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_34",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d34"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c35",
+      "claim_type": "event",
+      "subject": "e5",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_35",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d35"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c36",
+      "claim_type": "event",
+      "subject": "e6",
+      "predicate": "VISITED",
+      "object": "e_obj_36",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d36"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c37",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "READ",
+      "object": "e_obj_37",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d37"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c38",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "VISITED",
+      "object": "e_obj_38",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d38"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c39",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "WALKED",
+      "object": "e_obj_39",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d39"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c40",
+      "claim_type": "event",
+      "subject": "e5",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_40",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d40"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c41",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_41",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d41"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c42",
+      "claim_type": "event",
+      "subject": "e6",
+      "predicate": "WALKED",
+      "object": "e_obj_42",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d42"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c43",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "BOUGHT",
+      "object": "e_obj_43",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d43"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c44",
+      "claim_type": "event",
+      "subject": "e4",
+      "predicate": "WORKED_AT",
+      "object": "e_obj_44",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d44"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c45",
+      "claim_type": "event",
+      "subject": "e9",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_45",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d45"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c46",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "BOUGHT",
+      "object": "e_obj_46",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d46"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c47",
+      "claim_type": "event",
+      "subject": "e10",
+      "predicate": "WALKED",
+      "object": "e_obj_47",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d47"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c48",
+      "claim_type": "event",
+      "subject": "e7",
+      "predicate": "BOUGHT",
+      "object": "e_obj_48",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d48"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c49",
+      "claim_type": "event",
+      "subject": "e2",
+      "predicate": "READ",
+      "object": "e_obj_49",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d49"
+      },
+      "confidence": 1.0
+    },
+    {
+      "id": "c50",
+      "claim_type": "event",
+      "subject": "e1",
+      "predicate": "DROVE_TO",
+      "object": "e_obj_50",
+      "temporal_scope": {
+        "valid_from": null,
+        "valid_to": null
+      },
+      "semantic_scope": {},
+      "provenance": {
+        "document_id": "d50"
+      },
+      "confidence": 1.0
+    }
+  ]
+}
