@@ -77,3 +77,51 @@ def graph_retrieve(question, kg, k=8, hops=2, resolve=True):
             frontier.add(c["object"])
 
     return [{"id": c["doc"], "text": verbalize(c, names)} for c in found[:k]]
+
+
+def validate_kg(kg):
+    problems = []
+    ids = set()
+    by_name = {}
+
+    for e in kg.get("entities", []):
+        if not all(key in e for key in ("id", "type", "name")):
+            problems.append(f"entity missing id/type/name: {e}")
+            continue
+        if not isinstance(e["name"], str):
+            problems.append(f"entity {e['id']} name is not a string: {e['name']!r}")
+            continue
+        if e["id"] in ids:
+            problems.append(f"duplicate entity id: {e['id']}")
+        ids.add(e["id"])
+
+        raw = e["name"]
+        if raw != raw.strip() or "  " in raw:
+            problems.append(f"entity {e['id']} name has stray whitespace: {raw!r}")
+        if not raw.isascii():
+            problems.append(f"entity {e['id']} name is non-ascii, may not match variants: {raw!r}")
+
+        by_name.setdefault(raw.lower(), set()).add(e["type"])
+
+    for name, types in by_name.items():
+        if len(types) > 1:
+            problems.append(f"name {name!r} carries multiple types {sorted(types)}, will not merge")
+
+    stripped = {}
+    for name in by_name:
+        bare = name
+        for art in ("the ", "a ", "an "):
+            if bare.startswith(art):
+                bare = bare[len(art):]
+                break
+        stripped.setdefault(bare, []).append(name)
+    for bare, variants in stripped.items():
+        if len(variants) > 1:
+            problems.append(f"names differ only by article, will not merge: {sorted(variants)}")
+
+    for c in kg.get("claims", []):
+        for slot in ("subject", "object"):
+            if c.get(slot) not in ids:
+                problems.append(f"claim {c.get('id')} {slot} points at unknown entity {c.get(slot)!r}")
+
+    return problems
